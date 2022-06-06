@@ -1,5 +1,7 @@
 package testingrepo
 
-func main() {
+import "fmt"
 
+func main() {
+	fmt.Println("any")
 }
